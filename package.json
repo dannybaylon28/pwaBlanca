@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://danielbaylon.github.io/project",
+  "homepage": "https://dannybaylon28.github.io/project",
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=/project/",

@@ -2,7 +2,7 @@
   "name": "Daniel Baylón - Desarrollador Full Stack",
   "short_name": "Daniel Baylón",
   "description": "Portfolio profesional de Daniel Baylón, Desarrollador Full Stack especializado en tecnologías modernas",
-  "start_url": "/",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#3B82F6",
@@ -61,6 +61,6 @@
   ],
   "categories": ["portfolio", "developer", "technology"],
   "lang": "es",
-  "scope": "/",
+  "scope": ".",
   "id": "daniel-baylon-portfolio"
 }

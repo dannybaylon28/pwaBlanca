@@ -29,8 +29,8 @@ class ServiceWorkerManager {
         try {
             console.log('[SW Manager] Registrando Service Worker...');
             
-            this.registration = await navigator.serviceWorker.register('/sw.js', {
-                scope: '/'
+            this.registration = await navigator.serviceWorker.register('./sw.js', {
+                scope: './'
             });
 
             console.log('[SW Manager] Service Worker registrado exitosamente:', this.registration);
@@ -182,10 +182,10 @@ class ServiceWorkerManager {
     }
 
     createNotification(title, message) {
-        const notification = new Notification(title, {
+            const notification = new Notification(title, {
             body: message,
-            icon: '/img/Custom/Gemini_Generated_Image_ibcxssibcxssibcx-192x192.png',
-            badge: '/img/Custom/Gemini_Generated_Image_ibcxssibcxssibcx-64x64.png',
+            icon: './img/Custom/Gemini_Generated_Image_ibcxssibcxssibcx-192x192.png',
+            badge: './img/Custom/Gemini_Generated_Image_ibcxssibcxssibcx-64x64.png',
             tag: 'portfolio-notification'
         });
 
