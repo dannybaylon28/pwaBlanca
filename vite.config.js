@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/project/',
+  base: '/pwaBlanca/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',

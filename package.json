@@ -3,10 +3,10 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://dannybaylon28.github.io/project",
+  "homepage": "https://dannybaylon28.github.io/pwaBlanca",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project/",
+    "build": "vite build --base=/pwaBlanca/",
     "preview": "vite preview"
   },
   "devDependencies": {
