@@ -1,0 +1,403 @@
+Terms of Service
+Last update: 20 May 2025
+
+The FIFA NFT Platform collect.fifa.com (the “Platform”) is an application that provides users with the opportunity to purchase, collect, and showcase digital blockchain collectibles containing content licensed to us by Federation International de Football Association ("FIFA") for the purpose of offering such collectibles on the platform. 
+
+Modex Tech Limited, with legal seat in Madison Building - Midtown Queensway, Gibraltar ("Modex", "we", or "us") is making this Platform, all related websites and services we host or provide to you (collectively, the "App"), available to you.
+
+Before you use the App, however, you will need to agree to these Terms of Use and any terms and conditions incorporated herein by reference (collectively, the "Terms").
+Please read these terms carefully before using the App. By (i) using the App or any part of it, (ii) buying, selling or otherwise acquiring or transferring a FIFA NFT (as defined below), or (iii) indicating your acceptance in an adjoining box, you are confirming that you understand and agree to be bound by all of these Terms. If You are accepting these Terms on behalf of a company or other legal entity, you represent that you have the legal authority to accept these Terms on that entity's behalf, in which case "you" will mean that entity. If you do not have such authority, or if you do not accept all of these Terms, then We are unwilling to make the App available to You.
+You may not use this App if you: (i) do not agree to these Terms; (ii) are not over the age of thirteen (13), or any other minimum age requirement under your applicable national law; or (iii) are prohibited from accessing or using this App or any of this App's contents, products, or services by applicable law. In addition, if you are under the age of eighteen (18), you may use this App only with the approval of your parent or guardian.
+
+PLEASE READ THESE TERMS OF USE CAREFULLY, AS THEY CONTAIN AN AGREEMENT TO ARBITRATE AND OTHER IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS, REMEDIES, AND OBLIGATIONS.
+
+You understand and agree that we may change these Terms at any time without prior notice. If we do this, we will post the changed Terms on this page and will indicate at the top of this page the date these Terms were last revised. Any changes to these Terms will be in effect as of the "Last Updated Date" referred to at the top of this page. Your continued use of this App after the "Last Updated Date" will constitute your acceptance of and agreement to such changes.
+
+1.              USE OF THE APP; ACCOUNT SET-UP; SECURITY
+
+(i)        Account and Wallet Set-Up. To use the App, you should first install a web browser (such as the Google Chrome web browser). Each collectible is a Non­Fungible Token (an "NFT") on the FIFA Blockchain, an EVM-compatible blockchain (the "FIFA Blockchain").
+
+(ii)        Account Registration. You must provide accurate and complete registration information when you create an account for the App. By creating an account, you agree to provide accurate, current, and complete account information about yourself, and to maintain and promptly update your account information as necessary. We reserve the right to reclaim usernames.
+
+(iii)    Account Security. You are responsible for the security of your account for the App and for your electronic wallets, and we assume no responsibility therefor. If you become aware of any unauthorized use of your password or of your account with us, you agree to notify us immediately at collectsupport@fifa.org.
+
+(iv)    Account Transactions. You can use your electronic wallet to purchase, store, and engage in transactions using your credit card, or via one or more cryptocurrencies that we may elect to accept from time to time. Transactions that take place on the App are managed via the App and confirmed via the FIFA Blockchain. You understand that your FIFA Blockchain public address will be made publicly visible whenever you engage in a transaction on the App.
+
+2.              PURCHASING AND EARNING YOUR NFTS
+
+(i)               Acquiring NFTs. The App allows you to purchase from us, and/or earn, collect, and showcase 
+
+a)            NFTs related to FIFA and any other NFT that is traded on the Platform (each, a "FIFA NFT");
+
+b)            FIFA NFTs that grant the user a specific reward (each a “Glory NFT”); and
+
+c)             FIFA NFTs that are limited edition (each a “Special NFT”).
+
+d)            FIFA NFTs that grant the user real tickets for FIFA events (each a “FIFA NFT with Tickets”)
+
+e)            Special NFTs that grant the user real tickets for FIFA events (each a “Special NFTs with Tickets”)
+
+f)             FIFA NFTs related to Clubs and Federations (“Clubs and Federations NFTs”), traded in the “clubs” section of the Platform (“Fanclub Marketplace”)
+
+g)            Physical goods that might be associated with NFTs.
+
+(ii)        Purchasing FIFA NFTs. You can purchase FIFA NFTs and/or packs of FIFA NFTs (each a "Pack") in several ways:
+
+(a)    by purchasing FIFA NFTs (from us on the App ;
+
+(b) by purchasing FIFA NFTsfrom other users in the App's secondary trades marketplace (the "Marketplace");
+
+(c) by purchasing FIFA NFTs via auctions on the App;
+
+(d) by purchasing Clubs and Federations NFTs within the Fanclub Marketplace; or
+
+(e) by using the credits earned under the Referral Program pursuant to Clause 5. below. There are different types of FIFA NFTs and Packs available for purchase on the App and we reserve the right to modify the types, prices, and numbers of Packs and individual FIFA NFTs available at our discretion. Depending on the type of Pack you buy, you will collect FIFA NFTs with varying levels of scarcity.
+
+If you buy an individual FIFA NFT from another user in the Marketplace or from us on the App, you will know the exact FIFA NFT that you are purchasing. We strongly encourage you not to purchase FIFA NFTs, in Packs or otherwise, other than on the Marketplace or otherwise through the App. If you decide to purchase FIFA NFTs in any other way, you understand that such purchases will be entirely at your sole risk with no liability whatsoever for FIFA and/or Modex.
+
+(iii) It is forbidden to transfer NFTs outside the Platform and subsequently reimport them within the Platform through a different account (regardless of whether such account refers to the same user who transferred the NFT outside the Platform).
+
+(iv) more generally, it is forbidden to deal with NFTs in a way that aims at violating the provisions of these Terms through multiple accounts referred to the same user(s).
+
+(v) in any case, you should act in good faith when processing any transaction on the Platform, so to avoid to obtain undue profits or advantages (such as inducing another user to sell NFTs which entitle to a reward or give right to participate in challenges that the other user is clearly not aware of, or completing challenges that give right to a reward which, on the basis of the typical operativity of the Platform and based on average good faith and prudence, appear to be offered on the basis of a clear mistake by Modex).
+
+(vi)    Characteristics of FIFA NFTs. FIFA NFTs are comprised of audio, visual, or audiovisual content depicting various features, locations, moments, or other items or figures associated with FIFA. Each FIFA NFT has a defined set of attributes - including scarcity - which help determine the value of the FIFA NFT.
+
+(vii)    Subjectivity of FIFA NFTs. The value of each FIFA NFT is inherently subjective, in the same way the value of other collectibles is inherently subjective. Each FIFA NFT has no inherent or intrinsic value.
+
+(viii)        Showcasing FIFA NFTs. The App allows to you organize your FIFA NFTs into personalized showcases, and to show them to your friends.
+
+3.              PAYMENT, NETWORK FEES, AND TAXES
+
+(i)        Financial Transactions on App. Any payments or financial transactions that you engage in via the App will be conducted solely through the FIFA Blockchain.
+
+Payment processing will be performed using a platform (the "DFNS Platform") offered by Dfns, a simplified stock company, registered with the Trade and Companies Registry of Paris under number 888 176 575 and with registered office at 142 Rue de Rivoli, Paris 75001 (France) ("DFNS"). By using the App to complete any payments or financial transactions, you agree to be bound by the terms applicable to use of the DFNS Platform available here: https://www.dfns.co/terms-of-service. FIAT payment to the platform will be enabled by Onramper fiat to crypto aggregator that will be directing users to a payment provider based on location and service availability, bounded by additional terms of use and privacy policy. We have no control over these payments or transactions, nor do we have the ability to reverse any payments or transactions. We have no liability to you or to any third party for any claims or damages that may arise as a result of any payments or transactions that you engage in via the App, or any other payment or transactions that you conduct via the FIFA Blockchain or the DFNS Platform. The DFNS Platform also has its own privacy policy, and when you are completing payments through the DFNS Platform, you are subject to their privacy policy alone. We do not provide refunds for any purchases that you might make on or through the App - whether for FIFA NFTs, Packs, loading of accounts, or anything else. FIFA+ Collect holds onto customer verification records for a minimum of 7 (seven) years after an account is closed.
+
+IMPORTANT INFORMATION ABOUT PROCEDURES FOR OPENING A NEW ACCOUNT
+
+To help the government fight the funding of terrorism and money laundering activities, U.S. federal law requires all financial institutions to obtain, verify, and record information that identifies each person who opens an account. What this means for you: when you open an account, we will ask for your name, address, date of birth, and other information that will allow us to identify you. We may also ask for a copy of your driver's license or other identifying documents.
+
+(ii)        Holding Periods. All NFTs purchased, either directly from us or via the Marketplace, via the App are subject to a 3 (three) days holding period. This means that the NFTs cannot be transferred or sold for 3 (three) days following receipt. For example, if you purchase a FIFA NFT or Pack, the purchased NFT will be frozen until the 3 (three) days hold period has expired. Only then will you be allowed to list your NFT for sale on the Marketplace. Similarly, all account balances are subject to a 3 (three) days holding period before they can be withdrawn from the platform.
+
+(iii)     Creator Fees. Modex will receive a five percent (5%) fee (each, a "Creator Fee") on every sale of a FIFA NFT (a) within the Marketplace and (b) in the event such interoperability becomes available, to and within any secondary marketplace. These Creator Fees are enforced via Smart Contracts on the FIFA Blockchain and are incorporated into the price of all FIFA NFTs. By engaging in transactions of FIFA NFTs and by using the Smart Contracts, you hereby acknowledge, consent to, and accept all automated Creator Fees for the sale of FIFA NFTs. You hereby consent and agree to be bound by the Smart Contracts' execution and distribution of the Creator Fees. Any attempt to bypass Creator Fee payments, including transactions on FIFA NFTs at prices considerably lower than those at that time listed for such NFTs, or as lastly paid for transactions involving such NFTs, may be discretionally deemed by Modex as fraudulent transactions and will be subject to revocation without refund. We also reserve the right to take additional legal action, as more fully set forth herein.
+
+"Smart Contract" means computer code running on a blockchain that, upon the occurrence of a specified condition or conditions, is capable of executing automatically according to prespecified functions on such blockchain and would write any resulting change into such blockchain.
+ 
+(iv)            Network Fees. Every transaction on the FIFA Blockchain requires the payment of a transaction fee (each, a "Network Fee"). The Network Fees fund the network of computers that run the decentralized FIFA Blockchain. These Network Fees are incorporated into the price of FIFA NFTs, meaning that you will not need to pay any additional Network Fees beyond the FIFA NFT cost for the transactions that you instigate via the App. Except as otherwise expressly set forth in these Terms, you will be solely responsible to pay any Network Fees for any transaction that you instigate via the App.
+
+(v)    Responsibility for Taxes. You will be solely responsible to pay any and all sales, use, value-added, and other taxes, duties, and assessments (except taxes on our net income) now or hereafter claimed or imposed by any governmental authority (collectively, the "Taxes") associated with your use of the App. The App will charge Taxes in addition to the sales price where the App is required to collect and remit Taxes. If the App is required to account for Taxes on the full value of the NFT traded within the App's secondary marketplace, the buyer within the App's secondary marketplace will pay the Taxes to the App in addition to the price agreed between the buyer and the seller. If by purchasing or winning a FIFA NFT or an associated physical good in the App you will need to place an international order, you may be charged customs and import duties depending on the items purchased and the country of destination. We cannot be held responsible for any customs or import duties, as they are the responsibility of the recipient. Because policies and charges vary from country to country and may change regularly, we cannot provide guidance on such charges. We are not responsible for possible prohibitions in import that are depending on your country.
+
+ 
+
+4.              OWNERSHIP, LICENSE, AND OWNERSHIP RESTRICTIONS
+
+Your ownership of FIFA NFTs will only be recognized by Us if you have purchased or otherwise rightfully acquired such FIFA NFTs from a legitimate source and not through any of the Category B Prohibited Activities (as defined below).
+
+For the purposes of this Section 4, the following capitalized terms will have the following meanings:
+
+"Media" means any content, art, design, trademarks, logos and/or drawings (in any form or media, including, without limitation, video or photographs) that may be associated with a FIFA NFT that you Own.
+
+"Own" means, with respect to a FIFA NFT, your interest in a FIFA NFT that you have purchased or otherwise rightfully acquired from a legitimate source (and not through any of the Category B Prohibited Activities (as defined below)), where proof of such purchase is recorded on theFIFA Blockchain.
+
+"Purchased FIFA NFT" means a FIFA NFT that you Own;
+
+"Third Party IP" means any third-party patent rights (including, without limitation, patent applications and disclosures), copyrights, trade secrets, trademarks, know­ how, or any other intellectual property rights recognized in any country or jurisdiction in the world;
+
+(i)        Ownership of FIFA NFT. Because each FIFA NFT is an NFT on the FIFA Blockchain, when you purchase a FIFA NFT in accordance with these Terms (and not through any of the Category B Prohibited Activities), you own the underlying NFT completely. This means that you have the right to swap your FIFA NFT, sell it, or give it away. Ownership of the FIFA NFT is facilitated and established entirely by the FIFA Blockchain. Except as otherwise permitted by these Terms including in cases where we determine that the FIFA NFT has not been rightfully acquired from a legitimate source (including, without limitation, through any of the Category B Prohibited Activities) or is subject to a third-party infringement or misappropriation claim or proceeding, at no point will we seize, freeze, or otherwise modify the ownership of any FIFA NFT.
+
+(ii)        We or Our licensors Own the App. You acknowledge and agree that we (or, as applicable, our licensors) own or control all legal right, title, and interest in and to all other elements of the App, and all intellectual property rights therein (including, without limitation, all Media (including Media used in a FIFA NFT), designs, systems, methods, information, computer code, software, services, "look and feel", organization, compilation of the content, code, data, and all other elements of the App (collectively, the "App Materials", which can also be referred to as “FIFA Materials”). You acknowledge that the App Materials are protected by copyright, trade dress, patent, and trademark laws, international conventions, other relevant intellectual property and proprietary rights, and applicable laws. All App Materials are the copyrighted property of us or our licensors, and all trademarks, service marks, and trade names associated with the App or otherwise contained in the App Materials are proprietary to us or our licensors. All use of the App Materials, including any goodwill generated by such use, will inure to our benefit or the benefit of our licensors, as applicable.
+
+(iii)    No User License or Ownership of App Materials. Except as expressly set forth herein, your use of the App does not grant you ownership of or any other rights with respect to any content, code, data, or other App Materials that you may access on or through the App. We and our licensors reserve all rights in and to the App Materials that are not expressly granted to you in these Terms.
+
+(iv)    Further User Ownership Acknowledgements. For the sake of clarity, you understand and agree: (a) that a FIFA NFT is separate from the Media, (b) that your purchase of a FIFA NFT, whether via the App or otherwise, does not give you any rights or licenses in or to the App Materials (including, without limitation, our and our licensors' copyright in and to the associated Media) other than those expressly contained in these Terms; (c) that you do not have the right, except as otherwise set forth in these Terms, to reproduce, distribute, or otherwise commercialize any elements of the App Materials (including, without limitation, any Media) without our prior written consent in each case, which consent we may withhold in our sole and absolute discretion; and (d) that you will not apply for, register, or otherwise use or attempt to use any of our trademarks or service marks, or any confusingly similar marks, anywhere in the world without our prior written consent in each case, which consent we may withhold at our sole and absolute discretion.
+
+(v)        User License to Media. Subject to your continued compliance with these Terms, we grant you, for so long as you Own the Purchased FIFA NFT(s), a worldwide, non-exclusive, non-transferable (except as expressly set forth below), non-sublicensable, royalty-free license to use and display the Media for your Purchased FIFA NFTs, solely for the following purposes:
+
+(a) for your own personal, non-commercial use on the App; or
+
+(b) to the extent a transfer is required and effectuated pursuant to Section 4(viii), as part of a marketplace that permits the purchase and sale of your Purchased FIFA NFTs, provided that the marketplace cryptographically verifies each FIFA NFT owner's rights to display the Media for their Purchased FIFA NFT to ensure that only the actual owner can display the Media.
+
+(vi)    Restrictions on Ownership. Acknowledging the limited nature of the license granted in Section 4(v), you further acknowledge and agree that you may not, nor may you permit any third party to, do or attempt to do any of the following without our (or, as applicable, our licensors') express prior written consent in each case:
+(a) modify the Media for your Purchased FIFA NFT in any way, including, without limitation, the shapes, designs, drawings, attributes, or color schemes; (b) use the Media for your Purchased FIFA NFT, including the name, likeness, image or personal of any FIFA player or other person associated with such Media ("Persona"), to advertise, market, or sell any product or service or otherwise in any manner that may imply endorsement of any business, message, product or service, or that is likely to cause confusion or dilute, blur or tarnish such Media or Persona; (c) use the Media or any Persona for your Purchased FIFA NFT in connection with images, videos, or other forms of media that depict hatred, intolerance, violence, cruelty, or anything else that could reasonably be found to constitute hate speech or otherwise infringe upon the rights of others; (d) use the Media or any Persona for your Purchased FIFA NFT in movies, videos, or any other forms of media, except to the limited extent that such use is expressly permitted in these Terms; (e) sell, distribute for commercial gain (including, without limitation, giving away in the hopes of eventual commercial gain), or otherwise commercialize merchandise that includes, contains, or consists of the Media or any Persona for your Purchased FIFA NFT; (f) attempt to trademark, copyright, or otherwise acquire additional intellectual property rights in or to the Media (including any elements thereof) or any Persona for your Purchased FIFA NFT; (g) utilize the Media or any Persona for your Purchased FIFA NFT for your or any third party's commercial benefit; (h) create, sell or attempt to create or sell, fractionalized interests in any Purchased FIFA NFT or the Media associated with such Purchased FIFA NFT; (i) separate, unlink, or decouple the Media or any Persona from the Purchased FIFA NFT with which it is associated; (j) use any Media or modification thereof or any Persona to create, sell or attempt to create or sell any new cryptographic token; or (k) otherwise utilize the Media or any Persona for your Purchased FIFA NFT, except for the limited rights expressly granted pursuant to Section 4(v).
+
+(vii)    Third Party IP. If the Media associated with your Purchased FIFA NFT contains Third Party IP (e.g., licensed intellectual property from FIFA), you understand and agree as follows: (a) that you will not have the right to use such Third Party IP in any way except as incorporated in the Media, and subject to the license and restrictions contained herein; (b) that, depending on the nature of the license granted from the owner of the Third Party IP, we may need to (and reserve every right to) pass through additional restrictions on your ability to use the Media; and (c) to the extent that we inform you of such additional restrictions in writing, you will be responsible for complying with all such restrictions from the date that you receive the notice, and that failure to do so will be deemed a breach of the license contained in this Section 4.
+
+(viii)    Other Terms of License. The license granted in Section 4(v) above applies only to the extent that you continue to Own the applicable Purchased FIFA NFT. If at any time you sell, swap, donate, give away, transfer, or otherwise dispose of your Purchased FIFA NFT for any reason, the license granted in Section 4(v) will immediately expire with respect to that FIFA NFT without the requirement of notice, and you will have no further rights in or to the Media for that FIFA NFT, and such license will automatically transfer to the purchaser or recipient of such FIFA NFT, and such purchaser or recipient will be deemed "you" (for purposes of the Media for such FIFA NFT that it then owns, including with respect to the restrictions and other terms applicable to FIFA NFTs set forth herein). You have the limited right to transfer the Purchased FIFA NFT through the Marketplace or, in the event such interoperability becomes available to and through any permitted secondary marketplace, provided that (a) any such transfer shall be in accordance with applicable laws and regulations, including but not limited to restrictions under trade regulations and these Terms; (b) the transferee accepts all the Terms and the transferee shall, by purchasing, accepting, accessing or otherwise using the Media, be deemed to accept all the Terms; (c) you provide notice to the transferee of the Terms including a link or other method by which the Terms can be accessed by the transferee; (d) you have not breached the Terms before the transfer; and (e) your license granted in Section 4(v) has not been terminated before the transfer. Without limiting any other rights or remedies of Modex, including pursuant to Section 3 and Section 5 hereunder, the license granted in Section 4(v) will also automatically terminate, with all rights returning to us (and our licensors, as applicable) if:   (A) you breach any of the Terms which shall include, without limit, transferring, selling, donating or otherwise disposing of the Purchased FIFA NFT in a way not allowed specifically under the Terms;  (B) you engage in any unlawful business practice related to the Purchased FIFA NFT or (C) if other circumstances occur which would make it unreasonable for us to remain bound to the Terms until the next effective date of termination. Upon any termination or expiration of the license granted in Section 4(v), we may disable your access to the Media and/or deny access to any further benefits, services or goods associated with the FIFA NFT. Without limitation, the restrictions and obligations in Sections 4(vi) and 4(vii) will survive the expiration or termination of these Terms.
+
+(ix)    User Feedback. You may choose to submit comments, bug reports, ideas, or other feedback about the App, including without limitation about how to improve the App (collectively, "Feedback"). By submitting any Feedback, you agree that we are free to use such Feedback at our discretion and without additional compensation to you, and to disclose such Feedback to third parties (whether on a non-confidential basis, or otherwise). You hereby grant us a perpetual, irrevocable, nonexclusive, worldwide, royalty-free license under all rights necessary for us to incorporate and use your Feedback for any purpose.
+
+(x)     Challenge completion. Any challenge completion will be subject to review by Modex, which will verify full compliance with these Terms prior to validating completion.
+
+5.              REFERRAL PROGRAM
+
+The referral program is an opportunity for registered users (each, a “Referrer”) to earn benefits by referring other first-time customers (each, a “Referee”) to join the App (the “Referral Program”) subject to this Clause 5 and the Terms.
+By using the App, you agree to adhere to our Referral Program when, and if, it is active.
+ 
+A Referral Program consists of a credit given to the Referrer depending on the amount of the purchases of packs and/or NFTs made by a Referee on the App pursuant to the methods described under paragraph 2, number (ii) of these Terms during a given reference period.
+The Referrer will be provided with a referral code which could be used by the latter only for the purposes of inviting a Referee, and such referral code shall not be otherwise used or disclosed. The referral code cannot be used by the Referees if they are already registered on the App.
+Therefore, the Referrer can obtain a credit on the App subject to following conditions:
+(i) the Referee shall register on the App and consequently purchase Packs and/or FIFA NFTs on the App through one or multiple purchases, and
+(ii) those purchases shall be made within the reference period of the validity of the Referral Program.
+If the Referee does not sign up using the referral link or code, no rewards or credit will be assigned to the Referrer.
+The reference period shall start from the date of registration on the App by the Referee and shall have a potentially unlimited duration until the termination of the program communicated by Modex..
+You will be notified from time to time by the App of the credit you will be entitled to (and any additional terms and conditions) for any Referee you invite under the Referral Program.
+The credit so earned by the Referrer shall be equal to:
+(a)    20% (twenty percent) of the amount spent by the Referee for the  purchase of FIFA NFTs and Packs not related to FIFA NFTs with Tickets, Glory NFTs, Special NFTs and Special NFTs with Tickets;
+(b)    10% (ten percent) of the amount spent by the Referee for the purchase of FIFA NFTs with Tickets and Packs related to FIFA NFTs with Tickets;
+(c)      6% (six percent) of the amount spent by the Referee for the purchase of Glory NFTs and Special NFTs,  and  Packs related to Glory and Special NFTs;
+(d)     1% (one percent) of the amount spent by the Referee for the purchase of  FIFA NFTs    on the Marketplace; and or
+(e)    3% (three percent ) of the amount spent by the Referee for the purchase of Special NFTs With Tickets and Packs related to Special NFts With Tickets
+ 
+No percentage will be due to Referrer for the purchases made by the Referee within the Fanclub Marketplace and for the individual Clubs and Federations NFTs purchased by the Referee on the Marketplace . By inviting your Referee(s) you will confirm your agreement to the credit that will be granted to you and the relevant terms.
+ 
+ 
+ 
+Neither the Referral Program, nor any other provision of these Terms, shall be deemed to create a commercial relationship between the Referrer and Modex or any of its affiliates.
+Modex will not fulfil the obligation to reward referral codes associated with conduct that breaches these Terms (such as, without limitation, selling or paying or otherwise incentive the use of referral code). Any breach of this Clause 5 (Referral Program) and/or these Terms by the Referrer will void the right of the Referrer to the credit and Modex reserves the right to discretionally suspend or terminate the referral program for any user in case suspicious or fraudulent activity is detected, without prior notice to the Referrer and/or Referee.
+The activation of the Referral Program will be completed following the fulfilment of the instructions provided to the Referrer together with the referral code.
+After the Referee completes the eligible purchases described above, credits will appear on the electronic wallet of the Referrer within the App.
+The Referral Program started on 27 March, 2024 and shall be valid  until the termination of the program communicated by Modex, only for Referrers who are eligible to the Referral Program based on the requirements listed above. Modex has the right to publish every week a public progress report detailing (i) the names of the Referrers (ii) and the total amount of the credits earned pursuant to this Clause 5 (Referral program).
+Any tracking of rewards, also to be reported in public tracking sheets, will be made through a pseudonym, without there being any possibility of inferring the identity of the participant from such pseudonym.
+
+ 
+ 
+ 
+6.              CONDITIONS OF USE AND PROHIBITED ACTIVITIES
+
+(i)        User Warranties. You warrant and agree that your use of the App will not (and will not allow any third party to):
+
+(a)    in any manner:
+
+(1)        involve the sending, uploading, distributing, or disseminating any unlawful, defamatory, harassing, abusive, fraudulent, obscene, or otherwise objectionable content;
+
+(2)        involve the distribution of any viruses, worms, defects, Trojan horses, corrupted files, hoaxes, or any other items of a destructive or deceptive nature;
+
+(3)        involve the uploading, posting, transmitting, or otherwise making available through the App any content that infringes the intellectual proprietary rights of any party;
+
+(4)        involve using the App to violate the legal rights (such as rights of privacy and publicity) of others;
+
+(5)        involve engaging in, promoting, or encouraging illegal activity (including, without limitation, money laundering);
+
+(6)        involve interfering with other users' enjoyment of the App;
+
+(7)        involve exploiting the App for any unauthorized commercial purpose;
+
+(8)        involve modifying, adapting, translating, or reverse engineering any portion of the App;
+
+(9)        involve removing any copyright, trademark, or other proprietary rights notices contained in or on the App or any part of it;
+
+(10)    involve reformatting or framing any portion of the App;
+
+(11)    involve using any spider, site search/retrieval application, or other device to retrieve or index any portion of the App or the content posted on the App, or to collect information about its users for any unauthorized purpose; and/or
+
+(12)    involve accessing or using the App for the purpose of creating a product or service that is competitive with any of our products or services,
+
+(each, a "Category A Prohibited Activity"); and/or
+
+(b)    in any manner:
+
+(1)        involve creating user accounts by automated means or under false or fraudulent pretences;
+
+(2)        involve the impersonation of another person (via the use of an email address or otherwise);
+
+(3)        involve the abusive use (at the unfettered discretion of Modex) of a computer program simulating the human behavior of a user ("Bots");
+
+(4)        involve acquiring FIFA NFTs through inappropriate or illegal means (including, among other things, using a stolen credit card, or a payment mechanism that you do not have the right to use, or purchasing a FIFA NFT and then attempting to charge the cost back to your payment method while still maintaining ownership or control of the FIFA NFT or selling, gifting, or trading the FIFA NFT to someone else);
+
+(5)        involve the purchasing, selling, or facilitating the purchase and sale of any user's account(s) or any FIFA NFT to other users or third parties for cash or cryptocurrency consideration outside of the App, also when such use of cash or cryptocurrencies consideration outside of the App is merely suspected due to a transaction involving NFTs for a price considerably lower than that at the time listed, or lower than that paid for recent transaction involving such NFTs; for example, such behaviours include any scheme aimed at avoiding payment of the Creator Fees under Section 3(iii) and/or aimed at obtaining missing NFTs items for the sole purpose of completing challenges or rewards; and/or
+
+(6)        otherwise involve or result in the wrongful seizure or receipt of any FIFA NFTs or other digital assets (each, a "Category B Prohibited Activity" and, together with,
+ 
+Category A Prohibited Activity, the "Prohibited Activities").
+
+(ii)        Effect of your Breaches. If you engage in any of the Prohibited Activities, we may, at our sole and absolute discretion, without notice or liability to you, and without limiting any of our other rights or remedies at law or in equity, immediately suspend or terminate your user account, and/or delete your FIFA NFTs' images and descriptions from the App. If we delete your FIFA NFTs' images and descriptions from the App, such deletion will not affect your ownership rights in any NFTs that you already Own, but you will not receive a refund of any amounts you paid for those FIFA NFTs.
+
+Notwithstanding the foregoing, however, if We reasonably believe that you are engaged in any of the Category B Prohibited Activities, in addition to our right to immediately suspend or terminate your user account and/or delete your FIFA NFTs' images and descriptions from the App, We also reserve the right, at our sole and absolute discretion, without notice or liability to you, to take any or all of the following actions: (a) to deem any transaction that took place via or as the result of such activities to be void ab initio, and (b) to immediately confiscate any FIFA NFTs (including their underlying NFTs) that were purchased or acquired as the result of such activities. Further, if We reasonably believe that you are involved in any prohibited activities, in addition to our right to immediately suspend or terminate your user account and/or delete your FIFA NFTs' images and descriptions from the App, We also reserve the right, at our sole and absolute discretion, without notice or liability to you, to report unlawful or criminal activities to the appropriate authorities and notify any harmed party and/or to take any further legal action We deem necessary to protect us, our users and our licensors.
+
+If we are served with a subpoena, restraining order, writ of attachment, or execution, levy, garnishment, search warrant, or similar order relating to your account or use of the App or NFTs ("Legal Action"), we will comply with that Legal Action. Or, in our discretion, we may freeze or place a hold on your account, any assets you have tendered to us or attempt to purchase using the App, including any NFT, until a final determination has been made by a court or relevant regulatory authority regarding the Legal Action.
+
+We may undertake these initiatives even if the Legal Action involves less than the amount on which the hold was placed. In these cases, we will not have any liability to you because we fail to complete your requested transaction, or because in any way restricted access to your funds, account, NFTs or use of the App or any transaction in accordance with the Legal Action. You will be responsible for any fees or expenses we incur in responding to any Legal Action (including attorneys' fees and our internal expenses). Without limiting the foregoing, we have the right to fully cooperate with any law enforcement authorities or Legal Action requesting or directing us to disclose the identity or other information of anyone using the App.
+
+We may also place a hold on any assets you tender to us or attempt to purchase using the App, including any NFT, or your account or any transaction, if we believe, in our sole discretion, that the requested transaction is suspicious or is in violation of law or these Terms. We may refuse to release the hold on any such funds or assets, your account or any Transaction for as long as we deem reasonably necessary to complete an investigation of the activity or source of the funds or assets. Funds and assets may be frozen, blocked, or delivered to a regulatory authority if required by applicable law, at the order, direction, or request of a regulatory authority, or as reasonably necessary to ensure that we and our financial institution partners can comply with all our respective legal obligations and cooperate with any Legal Action, investigation, subpoena, inquiry, request for information, examination, or similar request from a regulatory authority.
+
+(iii)    Sanctions. You represent and warrant that you will comply with all applicable laws (e.g., local, state, federal and other laws) when using the App. Without limiting the foregoing, by using the App, you represent and warrant that: (a) you are not located in a country that is subject to a U.S. Government embargo; and (b) you have not been identified as a Specially Designated National or placed on any U.S. Government list of prohibited, sanctioned, or restricted parties. If you access or use the App outside the United States, you are solely responsible for ensuring that your access and use of the App in such country, territory or jurisdiction does not violate any applicable laws.
+
+7.              TERMINATION
+
+(i) You may terminate these Terms at any time by cancelling your account on the App and discontinuing your access to and use of the App. If you cancel your account, or if these Terms are otherwise terminated for any reason, you will not receive any refunds for any purchases that you might make on or through the App - whether for FIFA NFTs, Packs, or anything else.
+
+(ii) You agree that We, in our sole discretion and for any or no reason, may terminate these Terms and suspend and/or terminate your account(s) for the App without the provision of prior notice. You agree that any suspension or termination of your access to the App may be without prior notice, and that we will not be liable to you or to any third party for any such suspension or termination.
+
+(iii)    Other Remedies Available. If we terminate these Terms or suspend or terminate your access to or use of the App due to your breach of these Terms or any suspected fraudulent, abusive, or illegal activity (including, without limitation, if you engage in any of the Prohibited Activities), then termination of these Terms will be in addition to any other remedies we may have at law or in equity.
+
+(iv)    Effect of Termination. Upon any termination or expiration of these Terms, whether by You or Us, you may no longer have access to information that you have posted on the App or that is related to your account, and you acknowledge that we will have no obligation to maintain any such information in our databases or to forward any such information to you or to any third party. Sections l and 3 through 17 will survive the termination or expiration of these Terms for any reason.
+
+You waive and hold Us and our parent, subsidiaries, affiliates (for these purposes, Modex Tech Ltd is deemed an Affiliate of Modex), and our and their respective directors, officers, employees, agents, service providers, contractors, licensors, licensees, suppliers, and successors harmless from any and all claims resulting from any action taken by Us and any of the foregoing parties relating to any investigations by either Us or such parties or by law enforcement authorities.
+
+8.              COPYRIGHT COMPLAINTS
+
+ 
+Modex respects the intellectual property of others, and we ask our users to do the same. If You believe that your work has been copied by a user of the App in a way that constitutes copyright infringement, or that your intellectual property rights have been otherwise violated by a user of the App, You should notify Modex of your infringement claim in accordance with the procedure set forth below.
+
+Modex will process and investigate notices of alleged infringement by users of the App and will take appropriate actions under the Digital Millennium Copyright Act ("DMCA") and other applicable intellectual property laws with respect to any such alleged or actual infringement. A notification of claimed copyright infringement should be emailed to Modex’s Copyright Agent at  collectsupport@fifa.org (Subject line: "DMCA Takedown Request"). You may also contact us by mail:
+
+Modex Gibraltar Limited, Madison Building - Midtown Queensway, Gibraltar .
+
+To be effective, the notification must be in writing and contain the following information:
+
+•    an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest;
+
+•    a description of the copyrighted work or other intellectual property that you claim has been infringed;
+•    a description of where the material that you claim is infringing is located on the App, with enough detail that we may find it on the App;
+
+•    your address, telephone number, and email address;
+
+•    a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright or intellectual property owner, its agent, or the law;
+
+•    a statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright or intellectual property owner or authorized to act on the copyright or intellectual property owner's behalf.
+
+Counter-Notice: If You believe your content that was removed (or to which access was disabled) is not infringing, or that You have the authorization from the copyright owner, the copyright owner's agent, or pursuant to the law, to upload and use the content in your content, You may send a written counter-notice containing the following information to the Copyright Agent:
+
+•    your physical or electronic signature;
+
+•    identification of the content that has been removed or to which access has been disabled and the location at which the content appeared before it was removed or disabled;
+
+•    a statement that you have a good faith belief that the content was removed or disabled as a result of mistake or a misidentification of the content; and
+
+•    your name, address, telephone number, and email address, a statement that you consent to the jurisdiction of the federal court located within the Southern District of New York, and a statement that you will accept service of process from the person who provided notification of the alleged infringement.
+ 
+If a counter-notice is received by the Copyright Agent, Modex will send a copy of the counter-notice to the original complaining party informing that person that it may replace the removed content or cease disabling it in 10 business days. Unless the copyright owner files an action seeking a court order against the content provider, member or user, the removed content may be replaced, or access to it restored, in 10 to 14 business days or more after receipt of the counter-notice, at our sole discretion.
+
+Repeat Infringer Policy: In accordance with the DMCA and other applicable law, Modex has adopted a policy of terminating, in appropriate circumstances and at Modex’s sole discretion, users who are deemed to be repeat infringers. Modex may also at its sole discretion limit access to the App and/or terminate the memberships of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.
+
+9.              DISCLAIMERS
+
+You expressly understand and agree that your access to and use of the App is at your sole risk, and that the App is provided "as is" and "as available" without warranties of any kind, whether express or implied. To the fullest extent permissible pursuant to applicable law, We, our Subsidiaries, Affiliates (including any such deemed Affiliate), and licensors make no express warranties and hereby disclaim all implied warranties regarding the App and any part of it, including the implied warranties of merchantability, fitness for a particular purpose, non­infringement, correctness, accuracy, or reliability. Without limiting the generality of the foregoing, We, our Parent, Subsidiaries, Affiliates (including any such deemed Affiliate), and licensors do not represent or warrant to you that:
+
+(i) your access to or use of the App will meet your requirements;
+
+(ii) your access to or use of the App will be uninterrupted, timely, secure or free from error;
+
+(iii) usage data provided through the App will be accurate;
+
+(iv) the App or any content, services, or features made available on or through the App are free of viruses or other harmful components; or
+
+(v) that any data that you disclose when you use the App will be secure. Some jurisdictions do not allow the exclusion of implied warranties in contracts with consumers, so some or all of the above exclusions may not apply to you.
+
+You accept the inherent security risks of providing information and dealing online over the internet and agree that We have no liability or responsibility for any breach of security unless it is due to our gross negligence.
+
+FIFA NFTs are intangible digital assets that exist only by virtue of the ownership record maintained in the FIFA Blockchain. All smart contracts are conducted and occur on the decentralized ledger within the FIFA Blockchain. We have no control over and make no guarantees or promises with respect to smart contracts.
+
+We are not responsible for losses due to any features of the FIFA Blockchain, the DFNS platform, or any electronic wallet, including but not limited to late report by developers or representatives (or no report at all) of any issues with the blockchain supporting the FIFA Blockchain, including technical node issues, or any other issues having fund losses as a result.
+
+10.               LIMITATION OF LIABILITY
+
+You understand and agree that We, and our Affiliates (including any such deemed Affiliate) and licensors will not be liable to you or to any third party for any indirect, incidental, special, consequential, or exemplary damages which you may incur, howsoever caused and under any theory of liability, including, without limitation, any loss of profits (whether incurred directly or indirectly), loss of goodwill or business reputation, loss of data, cost of procurement of substitute goods or services, diminution of value or any other intangible loss, even if We have been advised of the possibility of such damages.
+
+You agree that We and our Affiliates' (including  any such deemed Affiliate) and licensors' total, aggregate liability to you for any and all claims arising out of or relating to these terms or your access to or use of (or your inability to access or use) any portion of the App or FIFA NFTs, whether in contract, tort, strict liability, or any other legal theory, is limited to the greater of the amounts you have actually and lawfully paid us under these terms in the two (2) month period preceding the date the claim arose.
+
+The foregoing sections titled "DISCLAIMERS" and "LIMITATION OF LIABILITY" are intended to be only as broad as is permitted under the Laws. If any portion of these sections is held to be invalid, the invalidity of such portion shall not affect the validity of the remaining portions of the applicable sections.
+
+11.          ASSUMPTION OF RISK
+
+You acknowledge and accept that:
+
+(i)        Value and Volatility. The prices of collectible blockchain assets are extremely volatile and subjective and collectible blockchain assets have no inherent or intrinsic value. Fluctuations in the price of other digital assets could materially and adversely affect the value of your FIFA NFTs, which may also be subject to significant price volatility. Each FIFA NFT has no inherent or intrinsic value. We cannot guarantee that any FIFA NFTs purchased will retain their original value, as the value of collectibles is inherently subjective and factors occurring outside of the FIFA NFT ecosystem may materially impact the value and desirability of any particular FIFA NFT.
+
+(ii)        Tax Calculations. You are solely responsible for determining what, if any, taxes apply to your FIFA NFT-related transactions. We are not responsible for determining the taxes that apply to your transactions on the App.
+
+(iii)    Inherent Risks with Internet Currency. There are risks associated with using an Internet-based currency, including, but not limited to, the risk of hardware, software and Internet connections, the risk of malicious software introduction, and the risk that third parties may obtain unauthorized access to information stored within your electronic wallet. You accept and acknowledge that we will not be responsible for any communication failures, disruptions, errors, distortions, or delays you may experience when using the FIFA Blockchain, the DFNS Platform or other network, however caused.
+
+(iv)    Regulatory Uncertainty. The regulatory regime governing blockchain technologies, cryptocurrencies, and tokens is uncertain, and new regulations or policies may materially adversely affect the development of the FIFA NFT ecosystem, and therefore the potential utility or value of your FIFA NFTs.
+
+12.          INDEMNIFICATION
+
+You agree to hold harmless and indemnify us and our affiliates (including any such deemed affiliate), and our and our affiliates' officers, agents, employees, advertisers, licensors, suppliers, and partners, from and against any claim, liability, loss, damages (actual and consequential) of any kind or nature, suit, judgment, litigation cost, and attorneys' fees arising out of or in any way related to:
+
+(i) your breach of these Terms;
+
+(ii) your misuse of the App; or
+
+(iii) your violation of applicable laws, rules, or regulations in connection with your access to or use of the App. You agree that we will have control of the defense or settlement of any such claims.
+
+13.          EXTERNAL SITES
+
+The App may include hyperlinks to other websites or resources (collectively, the "External Sites"), which are provided solely as a convenience to our users. We have no control over any External Sites. You acknowledge and agree that we are not responsible for the availability of any External Sites, and that we do not endorse any advertising, products, or other materials on or made available from or through any External Sites.
+
+Furthermore, you acknowledge and agree that we are not liable for any loss or damage which may be incurred as a result of the availability or unavailability of the External Sites, or as a result of any reliance placed by you upon the completeness, accuracy or existence of any advertising, products or other materials on, or made available from, any External Sites.
+
+14.          FORCE MAJEURE
+
+(i)        Force Majeure Events. We will not be liable or responsible to You, nor be deemed to have defaulted under or breached these Terms, for any failure or delay in fulfilling or performing any of these Terms, when and to the extent such failure or delay is caused by or results from the following force majeure events ("Force Majeure Event(s)"):
+
+(a) elements of nature or acts of God;
+
+(b) flood, fire, earthquake, epidemics, pandemics, including the 2019 novel coronavirus pandemic (COVID-19), tsunami, explosion;
+
+(c) war, invasion, hostilities (whether war is declared or not), terrorist threats or acts, riot, rebellion, revolution or other civil unrest;
+
+(d) government order, law, or action;
+
+(e) embargoes or blockades in effect on or after the date of this Terms;
+
+(f) strikes, labour stoppages or slowdowns or other industrial disturbances;
+
+(g) shortage of adequate or suitable Internet connectivity, telecommunication breakdown or shortage of adequate power or electricity; and
+
+(h) other similar events beyond our control.
+
+(ii)        Performance During Force Majeure Events. If We suffer a Force Majeure Event, We will use reasonable efforts to promptly notify You of the Force Majeure Event, stating the period of time the occurrence is expected to continue. We will use diligent efforts to end the failure or delay and ensure the effects of such Force Majeure Event are minimized. We will resume the performance of our obligations as soon as reasonably practicable after the removal of the cause. In the event that our failure or delay remains uncured for a period of forty-five (45) consecutive days following written notice given by us under this Section 13, we may thereafter terminate these Terms upon fifteen (15) days' written notice.
+
+15.          CHANGES TO THE APP
+
+We are constantly innovating the App to help provide the best possible experience. You acknowledge and agree that the form and nature of the App, and any part of it, may change from time to time without prior notice to You, and that We may add new features and change any part of the App at any time without notice.
+
+16.          PRIVACY POLICY
+
+Our Privacy Policy describes the ways We collect, use, store and disclose your personal information (including know-your-customer/KYC checks) and is hereby incorporated by this reference into these Terms. You agree to the collection, use, storage, and disclosure of your data in accordance with
+our Privacy Policy.
+
+17.          DISPUTE RESOLUTION; BINDING ARBITRATION
+
+PLEASE READ THIS SECTION CAREFULLY AS IT AFFECTS YOUR RIGHTS.
+
+•    Agreement to Arbitrate
+
+This Dispute Resolution by Binding Arbitration section is referred to in these Terms as the "Arbitration Agreement", subject to Pre-Arbitration Dispute Resolution, you agree that any and all disputes or claims that have arisen or may arise between you and Modex, whether arising out of or relating to the Terms (including any alleged breach thereof), the App, any FIFA NFTs, any advertising, any aspect of the relationship or transactions between us, shall be resolved exclusively through final and binding arbitration, rather than a court, in accordance with the terms of this Arbitration Agreement. You agree that, by entering into these Terms, You and Modex are each waiving the right to a trial by jury or to participate in a class action. Your rights will be determined by a single, neutral arbitrator, not a judge or jury. The Federal Arbitration Act governs the interpretation and enforcement of this Arbitration Agreement. Arbitration will be conducted by a neutral arbitrator in accordance with the American Arbitration Association's ("AAA") rules and procedures, including the AAA's Consumer Arbitration Rules (collectively, the "AAA Rules"). Each party shall pay its own costs for arbitration.
+
+•    Prohibition of Class and Representative Actions and Non-Individualized Relief
+
+You and Modex agree that each of Us may bring claims against the other only on an individual basis and not as a plaintiff or class member in any purported class or representative action or proceeding. Unless both you and Modex agree otherwise, the arbitrator may not consolidate or join more than one person's or party's claims and may not otherwise preside over any form of a consolidated, representative, or class proceeding. Also, the arbitrator may award relief (including monetary, injunctive, and declaratory relief) only in favour of the individual party seeking relief and only to the extent necessary to provide relief necessitated by that party's individual claim(s), except that You may pursue a claim for and the arbitrator may award public injunctive relief under applicable law to the extent required for the enforceability of this provision.
+
+•    Pre-Arbitration Dispute Resolution
+
+Modex is always interested in resolving disputes amicably and efficiently, and most customer concerns can be resolved quickly and to the customer's satisfaction by emailing customer collectsupport@fifa.org. If such efforts prove unsuccessful, a party who intends to seek arbitration must first send to the other, by certified mail, a written Notice of Dispute ("Notice"). The Notice to Modex should be sent to
+
+Modex Gibraltar Limited, Madison Building - Midtown Queensway, Gibraltar  ("Notice Address"). The Notice must (i) describe the nature and basis of the claim or dispute and (ii) set forth the specific relief sought. If Modex and you do not resolve the claim within sixty (60) calendar days after the Notice is received, You or Modex may commence an arbitration proceeding.
+During the arbitration, the amount of any settlement offer made by Modex or You shall not be disclosed to the arbitrator until after the arbitrator determines the amount, if any, to which you or Modex is entitled.
+
+Unless Modex and You agree otherwise, any arbitration hearings will take place in a reasonably convenient location for both parties with due consideration of their ability to travel and other pertinent circumstances. If the parties are unable to agree on a location, the determination shall be made by AAA. If your claim is for $10,000.00 or less, Modex agrees that you may choose whether the arbitration will be conducted solely on the basis of documents submitted to the arbitrator, through a telephonic hearing, or by an in-person hearing as established by the AAA Rules. If your claim exceeds $10,000.00, the right to a hearing will be determined by the AAA Rules. Regardless of the manner in which the arbitration is conducted, the arbitrator shall issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the award is based.
+
+•    Confidentiality
+
+All aspects of the arbitration proceeding, and any ruling, decision, or award by the arbitrator, will be strictly confidential for the benefit of all parties.
+
+18.          GENERAL
+
+(i)            Entire Agreement. These Terms and our Privacy Policy constitute the entire legal agreement between you and us and will be deemed to be the final and integrated agreement between you and us and govern your access to and use of the App, and completely replace any prior or contemporaneous agreements between you and us related to your access to or use of the App, whether oral or written.
+
+(ii)        No Third-Party Beneficiaries. These Terms do not and are not intended to confer any of your rights or remedies upon any person or entity other than you.
+
+(iii)    Interpretation. The language in these Terms will be interpreted as to its fair meaning, and not strictly for or against any party. The following rules of interpretation shall apply in these Terms: (a) words suggesting the singular include the plural, and vice versa, where the context requires; (b) headings used in these Terms are for ease of reference only and will not affect the interpretation of these Terms; and (c) use of the words "includes" or "including", "for example" or "e.g.," (and their derivatives) means includes or including, without limitation, and the word "or" is not exclusive.
+
+(iv)    Severability. Should any part of these Terms be held invalid, illegal, void or unenforceable, that portion will be deemed severed from these Terms and will not affect the validity or enforceability of the remaining provisions of these Terms.
+
+(v) No Waivers. Our failure or delay to exercise or enforce any right or provision of these Terms will not constitute or be deemed a waiver of future exercise or enforcement of such right or provision. The waiver of any right or provision of these Terms will be effective only if in writing and signed for and on behalf of us by a duly authorized representative.
+
+(vi) Governing Law. All matters arising out of or relating to these Terms will be governed by and construed in accordance with the laws of the Commonwealth of Massachusetts and the federal laws of the United States of America applicable therein without giving effect to any choice or conflict of law provision or rule.
+
+(vii) Venue. Subject to Section 16 of these Terms, any legal action or proceeding arising under these Terms will be brought exclusively in the state and federal courts located in Boston, Massachusetts, and we and you irrevocably consent and attorn to the personal jurisdiction and venue there.
+
+(viii) Notices. We may provide you with any notices (including, without limitation those regarding changes to these Terms) by email or postings on the App. By providing us with your email address, you consent to our using the email address to send you any notices. Notices sent by email will be effective when we send the email, and notices we provide by posting will be effective upon posting. It is your responsibility to keep your email address current.
+
+(ix) Assignment. You may not assign any of your rights or obligations under these Terms, whether by operation of law or otherwise, without our prior written consent. We may assign our rights and obligations under these Terms in our sole discretion, including to FIFA or any designee of FIFA, to an affiliate, or in connection with an acquisition, sale, or merger, in each case without any requirement to deliver notice to you.

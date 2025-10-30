@@ -1,0 +1,66 @@
+{
+  "name": "Daniel Baylón - Desarrollador Full Stack",
+  "short_name": "Daniel Baylón",
+  "description": "Portfolio profesional de Daniel Baylón, Desarrollador Full Stack especializado en tecnologías modernas",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3B82F6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "img/Custom/Gemini_Generated_Image_ibcxssibcxssibcx-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "img/Custom/Gemini_Generated_Image_ibcxssibcxssibcx-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "img/Custom/Gemini_Generated_Image_ibcxssibcxssibcx-64x64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "img/Custom/Gemini_Generated_Image_ibcxssibcxssibcx-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "img/Custom/Gemini_Generated_Image_ibcxssibcxssibcx-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "img/Custom/Gemini_Generated_Image_ibcxssibcxssibcx-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/Custom/Gemini_Generated_Image_ibcxssibcxssibcx-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "img/Custom/Gemini_Generated_Image_ibcxssibcxssibcx-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "img/Custom/Gemini_Generated_Image_ibcxssibcxssibcx-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "img/Custom/Gemini_Generated_Image_ibcxssibcxssibcx-1024x1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["portfolio", "developer", "technology"],
+  "lang": "es",
+  "scope": "/",
+  "id": "daniel-baylon-portfolio"
+}
